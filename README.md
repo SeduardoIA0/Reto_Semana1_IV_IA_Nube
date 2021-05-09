@@ -36,14 +36,29 @@ Alibaba Cloud, también conocida como AliCloud, ofrece una gama de servicios de 
 [Saber mas de Alibaba cloud...](https://us.alibabacloud.com/)
 
 ## 👾 Ventajas y desventajas de la nube
-### Ventajas
-### Desventajas
+<span style="color:#C2E2A3">**Ventajas**</span>
 
+<span style="color:#FBCC96">**Desventajas** </span>
 ## 👾 Tipos de servicio
-Pública, privada, mixta...
+
+
+- **Nube híbrida**: Entorno que combina una nube publica y una nube privada, lo que permite compartir datos y aplicaciones entre ellos
+        
+
+* **Nube privada**: Los recursos informaticos son de uso exclusico de los usuarios de una empresa u organizaxion la cual se encarga de el consumo de electricidad, seguridad, mantenimiento
+
+    ![](./Images/ibm.png)
+
+ + **Nube publica**: Los servicios se ofrecen a traves de la red internet publica y estan disponibles para cualquiera que quiera comprarlas, es decir, conseguir servicios de nube de terceros como Microsoft Azure
+        ![](./Images/public.jpg)
+
+ ![](./Images/memingo.jpg)
 
 ## 👾 Empresas que usan servicios en la nube
-Netflix, spotify
+
+**Netflix**: Con la popularización del servicio de Netflix y la gran demanda que comenzaba a tener el servicio, la compañía comenzó a migrar de sus centros de datos tradicionales a servicios en la nube a fin de poder satisfacer la demanda de todos sus suscriptores, lo que permitió por otro lado, una expansión mucho más acelerada, flexible y de menor costo para la compañía. 
+
+**Spotify**: Una de las aplicaciones de reproducción de música más importantes actualmente; utiliza los servicios de la nube para ejecutar la gran demanda de los usuarios suscritos al servicio.
 
 ## 👾 Modelos de servicio en la nube
 
