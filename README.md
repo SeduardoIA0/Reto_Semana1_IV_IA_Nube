@@ -84,7 +84,7 @@ A pesar de que es una tendencia predominante, no todos están convencidos. Por l
 
 Usos de la Nube
 
-## ** Ventajas**
+## **Ventajas**
 
 ### Reducción de costos
 
@@ -114,7 +114,7 @@ La próxima generación de tecnologías (por ejemplo, realidad aumentada, inteli
 
 ## **Desventajas**
 
-### **Dependiente de Internet**
+### Dependiente de Internet
 
 La computación en la Nube requiere una conexión a Internet robusta. Para algunas organizaciones, particularmente en áreas rurales, el uso de servicios de computación en la nube no es una opción factible.
 
