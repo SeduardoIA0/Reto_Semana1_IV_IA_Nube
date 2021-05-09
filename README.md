@@ -59,7 +59,24 @@ Alibaba Cloud, también conocida como AliCloud, ofrece una gama de servicios de 
 
 **Netflix**: Con la popularización del servicio de Netflix y la gran demanda que comenzaba a tener el servicio, la compañía comenzó a migrar degit sus centros de datos tradicionales a servicios en la nube a fin de poder satisfacer la demanda de todos sus suscriptores, lo que permitió por otro lado, una expansión mucho más acelerada, flexible y de menor costo para la compañía. 
 
+![](./Images/netflix.jpg)
+
+
 **Spotify**: Una de las aplicaciones de reproducción de música más importantes actualmente; utiliza los servicios de la nube para ejecutar la gran demanda de los usuarios suscritos al servicio.
+
+![](./Images/spotify.jpg)
+
+**General Electric:** Es uno de los conglomerados más grandes del mundo, entre las empresas que lo conforman se encuentran instituciones financieras, de tecnología, centros de investigación, entre otros; en 2014 comenzaron una estrategia de transformación digital, para lo cual en 2017, adquirió los servicios de Amazon Web Services para el alojo de más de 2000 aplicaciones y servicios en la nube; este cambio le permitió al conglomerado reorientar sus tareas y recursos hacia acciones de innovación, las cuales no habían podido desarrollar con anterioridad debido a mantener recursos en el mantenimiento de sus centros de datos. 
+
+![](./Images/electric.png)
+
+**Best Day Travel Group:** Es un conglomerado de empresas de turismo mexicana con sede en Cancún, encargada de la gestión de viajes turísticos principalmente; a través de Microsoft Azure, la logró que una de sus empresas lograra ser más eficiente y mucho más escalable, dado que es una empresa de turismo, con sedes tanto en México como en Estados Unidos, la gestión de la demanda debe ser excelente y siempre debe poder soportar los picos de demanda más altos; con la adquisición de servicios de la nube, logró recudir costos pues ya no tenía que gastar en mantenimiento de sus centros de datos, además de que mejoró su calidad del servicio sobre todo en su página web. 
+
+![](./Images/bestday.jpg)
+
+**Mercado libre:** una de la empresas de marketplace más grandes de américa latina logró a través de servicios en las nubes la integración en tiempo real de sus trabajadores y le permitió acotar los tiempo de trabajo, pues más de 1 solo empleado podía trabajar en una misma tarea al mismo tiempo, esto lo logró a través de la integración a través de Google Cloud, la cual a través de diferentes recursos y la compatibilidad con diferentes dispositivos, permitió a la empresa mejorar sus niveles de productividad. 
+
+![](./Images/mercadol.jpg)
 
 ## 👾 Modelos de servicio en la nube
 
