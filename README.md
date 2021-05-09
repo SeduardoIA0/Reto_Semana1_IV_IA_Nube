@@ -7,15 +7,13 @@
 * [ ] [👾 Tipos de servicio.](#-Tipos-de-servicio)
 * [ ] [👾 Empresas que usan servicios en la nube.](#-Empresas-que-usan-servicios-en-la-nube)
 * [ ] [👾 Modelos de servicio en la nube.](#-Modelos-de-servicio-en-la-nube)
+* [ ] [👾 Integrantes de equipo.](#-Integrantes-de-equipo)
 
 ## 👾 La nube, ¿Qué, cuándo y cómo?
-![](./Images/cloud_c.jpg)
-
 La definición de la nube puede parecer poco clara, pero, básicamente, es un término que se utiliza para describir una red mundial de servidores, cada uno con una función única. La nube no es una entidad física, sino una red enorme de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores están diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeos, correo web, software de ofimática o medios sociales. En lugar de acceder a archivos y datos desde un equipo personal o local, accede a ellos en línea desde cualquier dispositivo conectado a Internet, es decir, la información está disponible dondequiera que vaya y siempre que la necesite.
 Las empresas utilizan cuatro métodos diferentes para implementar recursos en la nube. Hay una nube pública, que comparte recursos y ofrece servicios al público a través de Internet; una nube privada, que no se comparte y ofrece servicios a través de una red interna privada, normalmente hospedada en el entorno local; una nube híbrida, que comparte servicios entre nubes públicas y privadas, según su finalidad; y una nube comunitaria, que comparte recursos solo entre organizaciones, por ejemplo, con instituciones gubernamentales.
 
-![](./Images/nubepublica.jpg)
-![](./Images/nubePrivada.png)
+![](./Images/cloud_c.jpg)
 
 Tienes que olvidarte del disco duro. Cuando almacenas datos o ejecutas programas desde el disco duro, estás usando el almacenamiento local donde todo lo que necesita está físicamente cerca tuyo, de manera que puedes acceder a tus datos rápida y fácilmente. La industria de la informática funcionó durante décadas trabajando desde el disco duro. Para algunos, este sistema sigue siendo superior a la nube.
 
@@ -75,9 +73,9 @@ A pesar de que es una tendencia predominante, no todos están convencidos. Por l
 
 Usos de la Nube
 
-## **Ventajas**
+### **Ventajas**
 
-### Reducción de costos
+#### Reducción de costos
 
 Cuando se trata de las ventajas y desventajas de la computación en la Nube, ésta es la parte superior de la lista para la mayoría de las empresas.
 
@@ -85,7 +83,7 @@ El proveedor asume todas las molestias asociadas con la infraestructura, el mant
 
 También, tiene la ventaja de pagar sólo por el tiempo o espacio del servidor que utiliza.
 
-### Confianza
+#### Confianza
 
 Los proveedores de la Nube construyen arquitecturas con redundancia como primer principio. En el Cloud tus datos no sólo se almacenan en un servidor sino en varios servidores.
 
@@ -93,31 +91,31 @@ Dependiendo del proveedor, incluso los datos podrían almacenarse en servidores 
 
 Esto significa que ninguna falla de hardware por sí sola afectará el negocio. También, significa que puede esperar una excelente confiabilidad en términos de acceso a sus datos o servicios. La mayoría de los proveedores incluso garantizan un tiempo de actividad del 99.9% al 99.999%.
 
-### Seguridad
+#### Seguridad
 
 ¿La Nube es segura? Sí. Existen mecanismos para asegurar esto. Un método de autenticación es especialmente seguro si para desbloquearlo se requiere además de una contraseña al menos otro parámetro. Se habla entonces de autenticación de dos o múltiples factores, entendida como la medida más eficaz para garantizar la seguridad de acceso a la Nube.
 
 Es por este motivo que se recomienda su uso en ámbitos con un alto riesgo de seguridad. Junto a la combinación de diferentes claves también existe la posibilidad de utilizar contraseñas de un solo uso o la de integrar un objeto en el proceso de autenticación, por ejemplo, una memoria USB.
 
-### Visión
+#### Visión
 
 La próxima generación de tecnologías (por ejemplo, realidad aumentada, inteligencia artificial, automatización, IoT, etc.) se basa en la Nube. Entonces, si deseas mantenerse al día con la competencia (o incluso adelantarse al resto), debes hacer el cambio a la Nube.
 
-## **Desventajas**
+### **Desventajas**
 
-### Dependiente de Internet
+#### Dependiente de Internet
 
 La computación en la Nube requiere una conexión a Internet robusta. Para algunas organizaciones, particularmente en áreas rurales, el uso de servicios de computación en la nube no es una opción factible.
 
 Sin embargo, 5G promete internet de alta velocidad para todos, sin importar dónde se encuentre un negocio. Entonces, 5G podría ser el eslabón perdido para las empresas que desean capitalizar el poder del Cloud Computing pero que aún no han podido hacerlo.
 
-### Dependencia
+#### Dependencia
 
 Hay un temor generalizado cuando se aborda la Nube: verse obligado a usar un proveedor en particular. También es una preocupación constante el no tener control sobre su infraestructura y datos.
 
 Sin embargo, el socio adecuado se asegurará de que siempre mantengas el control. De hecho, cambiar entre nubes debería ser mucho más fácil que migrar desde un sistema propietario.
 
-### Complejidad de configuración
+#### Complejidad de configuración
 
 Existe la preocupación de que la Nube no sea tan personalizable. Sin embargo, cualquier cosa que pueda ser un requerimiento de datos, aplicaciones o software en general debe ser posible con el proveedor adecuado.
 
@@ -125,18 +123,18 @@ De hecho, a menos que se esté lidiando con requisitos o regulaciones increíble
 
 ## 👾 Tipos de servicio
 
-
-- **Nube híbrida**: Entorno que combina una nube publica y una nube privada, lo que permite compartir datos y aplicaciones entre ellos
+- **Nube híbrida**: Entorno que combina una nube publica y una nube privada, lo que permite compartir datos y aplicaciones entre ellos.
         
 
-* **Nube privada**: Los recursos informaticos son de uso exclgotusico de los usuarios de una empresa u organizaxion la cual se encarga de el consumo de electricidad, seguridad, mantenimiento
+- **Nube privada**: Los recursos informaticos son de uso exclusivo de los usuarios de una empresa u organización la cual se encarga de el consumo de electricidad, seguridad, mantenimiento.
 
-    ![](./Images/ibm.png)
+![](./Images/ibm.png)
 
- + **Nube publica**: Los servicios se ofrecen a traves de la red internet publica y estan disponibles para cualquiera que quiera comprarlas, es decir, conseguir servicios de nube de terceros como Microsoft Azurel
-        ![](./Images/public.jpg)
+- **Nube publica**: Los servicios se ofrecen a traves de la red internet publica y estan disponibles para cualquiera que quiera comprarlas, es decir, conseguir servicios de nube de terceros como Microsoft Azure.
 
- ![](./Images/memingo.jpg)
+![](./Images/public.jpg)
+
+![](./Images/memingo.jpg)
 
 ## 👾 Empresas que usan servicios en la nube
 
@@ -174,3 +172,13 @@ De hecho, a menos que se esté lidiando con requisitos o regulaciones increíble
 | Servicios para arquitectos cloud.     | Plataforma para programadores.             | Software para el usuario final.                 |
 | Servidores, networking firewall, etc. | Permite desplegar aplicaciones.            | No se instala, se usa desde el navegador o app. |
 | Diseño de la solución a medida.       | No hay que preocuparse de infraestructura. | No se requieren grandes conocimientos técnicos. |
+
+## 👾 Integrantes de equipo.
+
+| Nombre                        | Correo                 |
+| :---                          | :---                   |
+| Alexis Iván Rojas             | vi15956@innovaccion.mx |
+| Ángel Cortez Cruz             | vi11323@innovaccion.mx |
+| Johann Joseph Velázquez       | vi13621@innovaccion.mx |
+| José Alejandro Sanchez        | vi13664@innovaccion.mx |
+| Sergio Eduardo Borja Bautista | vi12365@innovaccion.mx |
